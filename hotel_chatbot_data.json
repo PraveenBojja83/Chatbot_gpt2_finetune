@@ -1,0 +1,2462 @@
+[
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "What services does your hotel offer?"
+            },
+            {
+                "role": "assistant",
+                "content": "Our hotel provides luxurious accommodations, fine dining, spa services, and concierge assistance."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Can I book a room through this chatbot?"
+            },
+            {
+                "role": "assistant",
+                "content": "Yes! Please provide your check-in and check-out dates, preferred room type, and any special requests."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "What are the check-in and check-out timings?"
+            },
+            {
+                "role": "assistant",
+                "content": "Check-in starts at 3:00 PM, and check-out is at 11:00 AM."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Do you offer airport transfers?"
+            },
+            {
+                "role": "assistant",
+                "content": "Yes, we provide airport pick-up and drop-off services. Would you like to schedule a ride?"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "How can I modify my reservation?"
+            },
+            {
+                "role": "assistant",
+                "content": "You can modify your booking by providing your reservation details."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "What are the dining options in the hotel?"
+            },
+            {
+                "role": "assistant",
+                "content": "We have a multi-cuisine restaurant, a rooftop bar, and 24/7 room service."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Can I request additional amenities for my stay?"
+            },
+            {
+                "role": "assistant",
+                "content": "Certainly! We offer extra towels, pillows, toiletries, and special arrangements for celebrations."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "How do I contact hotel staff for urgent needs?"
+            },
+            {
+                "role": "assistant",
+                "content": "You can connect with the front desk or dial '0' from your room phone."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Do you have pet-friendly rooms?"
+            },
+            {
+                "role": "assistant",
+                "content": "Yes! We offer pet-friendly accommodations with special amenities."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "What attractions are near the hotel?"
+            },
+            {
+                "role": "assistant",
+                "content": "Our hotel is close to popular tourist spots including museums, shopping centers, and parks."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "How do I provide feedback about my stay?"
+            },
+            {
+                "role": "assistant",
+                "content": "You can submit feedback through this chatbot or at the front desk upon checkout."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "What time does the restaurant open and close?"
+            },
+            {
+                "role": "assistant",
+                "content": "Our restaurant is open from 7:00 AM to 10:00 PM daily."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Can I see the food menu?"
+            },
+            {
+                "role": "assistant",
+                "content": "Sure! We offer continental breakfast, Indian cuisine, Italian dishes, and desserts."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Do you have vegetarian options?"
+            },
+            {
+                "role": "assistant",
+                "content": "Yes, we have a variety of vegetarian dishes available."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Can I order food to my room?"
+            },
+            {
+                "role": "assistant",
+                "content": "Absolutely! You can place room service orders through this chatbot."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "What services does your hotel offer?"
+            },
+            {
+                "role": "assistant",
+                "content": "Our hotel provides luxurious accommodations, fine dining, spa services, and concierge assistance."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Can I book a room through this chatbot?"
+            },
+            {
+                "role": "assistant",
+                "content": "Yes! Please provide your check-in and check-out dates, preferred room type, and any special requests."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "What are the check-in and check-out timings?"
+            },
+            {
+                "role": "assistant",
+                "content": "Check-in starts at 3:00 PM, and check-out is at 11:00 AM."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Do you offer airport transfers?"
+            },
+            {
+                "role": "assistant",
+                "content": "Yes, we provide airport pick-up and drop-off services. Would you like to schedule a ride?"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "How can I modify my reservation?"
+            },
+            {
+                "role": "assistant",
+                "content": "You can modify your booking by providing your reservation details."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "What are the dining options in the hotel?"
+            },
+            {
+                "role": "assistant",
+                "content": "We have a multi-cuisine restaurant, a rooftop bar, and 24/7 room service."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Can I request additional amenities for my stay?"
+            },
+            {
+                "role": "assistant",
+                "content": "Certainly! We offer extra towels, pillows, toiletries, and special arrangements for celebrations."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "How do I contact hotel staff for urgent needs?"
+            },
+            {
+                "role": "assistant",
+                "content": "You can connect with the front desk or dial '0' from your room phone."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Do you have pet-friendly rooms?"
+            },
+            {
+                "role": "assistant",
+                "content": "Yes! We offer pet-friendly accommodations with special amenities."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "What attractions are near the hotel?"
+            },
+            {
+                "role": "assistant",
+                "content": "Our hotel is close to popular tourist spots including museums, shopping centers, and parks."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "How do I provide feedback about my stay?"
+            },
+            {
+                "role": "assistant",
+                "content": "You can submit feedback through this chatbot or at the front desk upon checkout."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "What time does the restaurant open and close?"
+            },
+            {
+                "role": "assistant",
+                "content": "Our restaurant is open from 7:00 AM to 10:00 PM daily."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Can I see the food menu?"
+            },
+            {
+                "role": "assistant",
+                "content": "Sure! We offer continental breakfast, Indian cuisine, Italian dishes, and desserts."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Do you have vegetarian options?"
+            },
+            {
+                "role": "assistant",
+                "content": "Yes, we have a variety of vegetarian dishes available."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Can I order food to my room?"
+            },
+            {
+                "role": "assistant",
+                "content": "Absolutely! You can place room service orders through this chatbot."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "What is the cancellation policy?"
+            },
+            {
+                "role": "assistant",
+                "content": "Cancellations made within 24 hours of check-in may be subject to a fee."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Are there any discounts for long stays?"
+            },
+            {
+                "role": "assistant",
+                "content": "Yes, we offer discounts for extended stays. Contact us for details."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Can I request a late check-out?"
+            },
+            {
+                "role": "assistant",
+                "content": "Late check-out is subject to availability and may incur additional charges."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Do you have a loyalty program?"
+            },
+            {
+                "role": "assistant",
+                "content": "Yes, we offer a loyalty program with exclusive discounts and benefits."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "What safety measures are in place at the hotel?"
+            },
+            {
+                "role": "assistant",
+                "content": "Our hotel follows strict safety protocols, including regular sanitization and security surveillance."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Do you provide car rental services?"
+            },
+            {
+                "role": "assistant",
+                "content": "Yes, we offer car rental services. Let us know if you need a vehicle during your stay."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Can I schedule a wake-up call?"
+            },
+            {
+                "role": "assistant",
+                "content": "Absolutely! Let us know your preferred time, and we\u2019ll arrange a wake-up call."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "What are the swimming pool hours?"
+            },
+            {
+                "role": "assistant",
+                "content": "The swimming pool is open from 6:00 AM to 9:00 PM."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Is there a gym in the hotel?"
+            },
+            {
+                "role": "assistant",
+                "content": "Yes! Our gym is equipped with modern fitness equipment and is open 24/7."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Do you offer guided tours?"
+            },
+            {
+                "role": "assistant",
+                "content": "Yes, we provide guided tours to local attractions upon request."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Can I host events at the hotel?"
+            },
+            {
+                "role": "assistant",
+                "content": "Certainly! We have event halls available for weddings, business meetings, and celebrations."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Does the hotel have free Wi-Fi?"
+            },
+            {
+                "role": "assistant",
+                "content": "Yes! Complimentary high-speed Wi-Fi is available throughout the hotel."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Are there family suites available?"
+            },
+            {
+                "role": "assistant",
+                "content": "Yes, we have spacious family suites designed for comfort."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Do you have babysitting services?"
+            },
+            {
+                "role": "assistant",
+                "content": "Yes, babysitting services are available upon request."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Is smoking allowed in the rooms?"
+            },
+            {
+                "role": "assistant",
+                "content": "All rooms are non-smoking, but designated smoking areas are available."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Can I change my payment method after booking?"
+            },
+            {
+                "role": "assistant",
+                "content": "Yes, payment methods can be adjusted before check-in."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "What are the different types of rooms available?"
+            },
+            {
+                "role": "assistant",
+                "content": "We offer standard rooms, deluxe rooms, suites, and family accommodations."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Can I request an extra bed?"
+            },
+            {
+                "role": "assistant",
+                "content": "Yes, extra beds are available upon request. Additional charges may apply."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "What are the payment options?"
+            },
+            {
+                "role": "assistant",
+                "content": "We accept credit cards, debit cards, mobile wallets, and cash."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Do you have conference rooms available?"
+            },
+            {
+                "role": "assistant",
+                "content": "Yes! Our hotel features fully equipped conference rooms for business meetings."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Can I get a receipt for my stay?"
+            },
+            {
+                "role": "assistant",
+                "content": "Absolutely! We can email or print a receipt for you."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Are pets allowed in the hotel?"
+            },
+            {
+                "role": "assistant",
+                "content": "Yes, we have designated pet-friendly rooms. Let us know in advance!"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "What are the parking facilities?"
+            },
+            {
+                "role": "assistant",
+                "content": "We provide free and valet parking options for our guests."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Can I store my luggage at the hotel after checkout?"
+            },
+            {
+                "role": "assistant",
+                "content": "Yes, we offer luggage storage services for short durations."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Do you provide a shuttle service?"
+            },
+            {
+                "role": "assistant",
+                "content": "Yes, shuttle services are available for airport transfers and local travel."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Can I request a non-smoking room?"
+            },
+            {
+                "role": "assistant",
+                "content": "Of course! All our rooms are non-smoking, but we have designated smoking areas."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Does the hotel provide disability-accessible rooms?"
+            },
+            {
+                "role": "assistant",
+                "content": "Yes, we offer wheelchair-accessible rooms with necessary amenities."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Can I have an early breakfast if I have a flight?"
+            },
+            {
+                "role": "assistant",
+                "content": "Yes, we offer early breakfast upon request."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Do you offer buffet or \u00e0 la carte dining?"
+            },
+            {
+                "role": "assistant",
+                "content": "We have both buffet and \u00e0 la carte options available."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Can I book a spa appointment through this chatbot?"
+            },
+            {
+                "role": "assistant",
+                "content": "Yes! Let me know your preferred time, and I\u2019ll schedule it for you."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "What are the housekeeping hours?"
+            },
+            {
+                "role": "assistant",
+                "content": "Housekeeping operates from 7:00 AM to 9:00 PM. You can request extra cleaning."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Can I request special decorations for celebrations?"
+            },
+            {
+                "role": "assistant",
+                "content": "Yes, we provide room decorations for birthdays, anniversaries, and special occasions."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Do you have business center facilities?"
+            },
+            {
+                "role": "assistant",
+                "content": "Yes! Our business center offers printing, scanning, and meeting spaces."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Is Wi-Fi free or paid?"
+            },
+            {
+                "role": "assistant",
+                "content": "Wi-Fi is complimentary for all guests during their stay."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "What are the hotel\u2019s safety protocols?"
+            },
+            {
+                "role": "assistant",
+                "content": "We have 24/7 security, CCTV monitoring, and emergency response teams."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Are there evening entertainment options at the hotel?"
+            },
+            {
+                "role": "assistant",
+                "content": "Yes! We host live music, cultural events, and themed nights."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Can I bring outside food into the hotel?"
+            },
+            {
+                "role": "assistant",
+                "content": "Outside food is generally not allowed, but exceptions can be made for special dietary needs."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "How do I extend my stay?"
+            },
+            {
+                "role": "assistant",
+                "content": "You can request an extension through this chatbot or contact the front desk."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Does the hotel provide medical assistance?"
+            },
+            {
+                "role": "assistant",
+                "content": "Yes, we have an on-call doctor and first-aid kits available."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "What types of cuisines are available at the restaurant?"
+            },
+            {
+                "role": "assistant",
+                "content": "We serve Indian, Continental, Chinese, and Italian dishes."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Are there vegetarian and vegan options?"
+            },
+            {
+                "role": "assistant",
+                "content": "Yes, our restaurant offers a variety of vegetarian and vegan dishes."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "What are the bar hours?"
+            },
+            {
+                "role": "assistant",
+                "content": "The bar is open from 5:00 PM to 12:00 AM."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Can I request a wake-up call?"
+            },
+            {
+                "role": "assistant",
+                "content": "Of course! Let us know your preferred time, and we\u2019ll arrange it."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Is the hotel child-friendly?"
+            },
+            {
+                "role": "assistant",
+                "content": "Yes, we have family-friendly amenities, including play areas and babysitting services."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "What discounts are available?"
+            },
+            {
+                "role": "assistant",
+                "content": "We offer seasonal promotions, group discounts, and loyalty program benefits."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Question"
+            },
+            {
+                "role": "assistant",
+                "content": "Answer"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "What types of rooms do you offer?"
+            },
+            {
+                "role": "assistant",
+                "content": "We have Standard, Deluxe, Suite, and Family rooms available."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "What is the price for a Standard room?"
+            },
+            {
+                "role": "assistant",
+                "content": "The price for a Standard room starts at \u20b91,369 per night."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "What is the price for a Deluxe room?"
+            },
+            {
+                "role": "assistant",
+                "content": "A Deluxe room costs around \u20b91,819 per night."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "What is the price for a Suite?"
+            },
+            {
+                "role": "assistant",
+                "content": "Suites are available starting at \u20b94,033 per night."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Do you offer discounts for long stays?"
+            },
+            {
+                "role": "assistant",
+                "content": "Yes, we provide discounts for extended stays. Contact us for details."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Are there any seasonal offers?"
+            },
+            {
+                "role": "assistant",
+                "content": "We have seasonal promotions and special discounts during festive periods."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Can I book a room online?"
+            },
+            {
+                "role": "assistant",
+                "content": "Yes! You can book a room through our website or this chatbot."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Do room prices include breakfast?"
+            },
+            {
+                "role": "assistant",
+                "content": "Yes, all room prices include complimentary breakfast."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Are taxes included in the room price?"
+            },
+            {
+                "role": "assistant",
+                "content": "Taxes are additional and vary based on the room type."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Do you have family suites?"
+            },
+            {
+                "role": "assistant",
+                "content": "Yes, we offer spacious family suites designed for comfort."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Is Wi-Fi included in the room price?"
+            },
+            {
+                "role": "assistant",
+                "content": "Yes, complimentary high-speed Wi-Fi is available in all rooms."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Can I request an extra bed?"
+            },
+            {
+                "role": "assistant",
+                "content": "Yes, extra beds are available upon request. Additional charges may apply."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Do you have pet-friendly rooms?"
+            },
+            {
+                "role": "assistant",
+                "content": "Yes, we offer pet-friendly accommodations with special amenities."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "What is the cancellation policy?"
+            },
+            {
+                "role": "assistant",
+                "content": "Cancellations made within 24 hours of check-in may be subject to a fee."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Can I request a late check-out?"
+            },
+            {
+                "role": "assistant",
+                "content": "Late check-out is subject to availability and may incur additional charges."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Do you offer honeymoon packages?"
+            },
+            {
+                "role": "assistant",
+                "content": "Yes, we have special honeymoon packages with romantic room setups."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Are there rooms with a city view?"
+            },
+            {
+                "role": "assistant",
+                "content": "Yes, our Deluxe and Suite rooms offer stunning city views."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Do you have wheelchair-accessible rooms?"
+            },
+            {
+                "role": "assistant",
+                "content": "Yes, we provide wheelchair-accessible rooms with necessary amenities."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Can I upgrade my room after booking?"
+            },
+            {
+                "role": "assistant",
+                "content": "Yes, room upgrades are available based on availability."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Do you offer hourly room bookings?"
+            },
+            {
+                "role": "assistant",
+                "content": "Yes, we have flexible hourly booking options for short stays."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Question"
+            },
+            {
+                "role": "assistant",
+                "content": "Answer"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Can I check in early?"
+            },
+            {
+                "role": "assistant",
+                "content": "Early check-in is subject to availability. Please contact the front desk for confirmation."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Is there an extra charge for early check-in?"
+            },
+            {
+                "role": "assistant",
+                "content": "Early check-in may incur additional charges depending on the hotel policy."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "What is the earliest check-in time?"
+            },
+            {
+                "role": "assistant",
+                "content": "Standard check-in time is 3:00 PM, but early check-in may be available from 10:00 AM."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Can I check out late?"
+            },
+            {
+                "role": "assistant",
+                "content": "Late check-out is subject to availability. Please inform the front desk in advance."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Is there a fee for late check-out?"
+            },
+            {
+                "role": "assistant",
+                "content": "Late check-out may be chargeable based on the duration of the extension."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "What is the latest check-out time?"
+            },
+            {
+                "role": "assistant",
+                "content": "Standard check-out time is 11:00 AM, but late check-out may be available until 2:00 PM."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Can I request early check-in while booking?"
+            },
+            {
+                "role": "assistant",
+                "content": "Yes, you can request early check-in during booking, but confirmation depends on availability."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Do all room types allow early check-in?"
+            },
+            {
+                "role": "assistant",
+                "content": "Early check-in is available for most room types, but premium rooms may have priority."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Can I extend my stay after check-out time?"
+            },
+            {
+                "role": "assistant",
+                "content": "Yes, you can extend your stay, but additional charges may apply."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Are there discounts for late check-out?"
+            },
+            {
+                "role": "assistant",
+                "content": "Some hotels offer complimentary late check-out for loyalty members or long-stay guests."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "How do I confirm early check-in or late check-out?"
+            },
+            {
+                "role": "assistant",
+                "content": "You can confirm by contacting the hotel reception or checking the booking details."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Can I check in early if I arrive at midnight?"
+            },
+            {
+                "role": "assistant",
+                "content": "Hotels with 24-hour reception may allow midnight check-in, but policies vary."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Is early check-in available for group bookings?"
+            },
+            {
+                "role": "assistant",
+                "content": "Yes, group bookings may have special early check-in arrangements."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Can I store my luggage if early check-in is unavailable?"
+            },
+            {
+                "role": "assistant",
+                "content": "Yes, hotels usually offer luggage storage until your room is ready."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Do hotels in Tirupati offer early check-in?"
+            },
+            {
+                "role": "assistant",
+                "content": "Yes, our hotel in Tirupati offers early check-in subject to availability. "
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "How many people can stay in a Standard room?"
+            },
+            {
+                "role": "assistant",
+                "content": "A Standard room accommodates up to 2 adults."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "How many guests are allowed in a Deluxe room?"
+            },
+            {
+                "role": "assistant",
+                "content": "A Deluxe room can host up to 3 adults."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "What is the occupancy limit for a Suite?"
+            },
+            {
+                "role": "assistant",
+                "content": "Suites can accommodate up to 4 adults."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Can I add an extra person to my booking?"
+            },
+            {
+                "role": "assistant",
+                "content": "Yes, extra guests can be added based on room capacity."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "What is the charge for an additional guest in a Standard room?"
+            },
+            {
+                "role": "assistant",
+                "content": "An extra guest in a Standard room costs \u20b9500 per night."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "What is the fee for an additional person in a Deluxe room?"
+            },
+            {
+                "role": "assistant",
+                "content": "An extra person in a Deluxe room costs \u20b9800 per night."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "How much does it cost to add a guest in a Suite?"
+            },
+            {
+                "role": "assistant",
+                "content": "An additional guest in a Suite costs \u20b91,200 per night."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Are children counted in the occupancy limit?"
+            },
+            {
+                "role": "assistant",
+                "content": "Children under 5 years stay free, while older children may be considered as extra guests."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Can I request an extra bed for an additional guest?"
+            },
+            {
+                "role": "assistant",
+                "content": "Yes, extra beds are available upon request for an additional charge."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Do family suites allow more than 4 guests?"
+            },
+            {
+                "role": "assistant",
+                "content": "Yes, family suites can accommodate up to 6 guests."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Are there any discounts for group bookings?"
+            },
+            {
+                "role": "assistant",
+                "content": "Yes, group bookings may qualify for special discounts."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Can I book a room for a single guest?"
+            },
+            {
+                "role": "assistant",
+                "content": "Yes, all room types are available for single occupancy."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Is there a limit on the number of extra guests per room?"
+            },
+            {
+                "role": "assistant",
+                "content": "Yes, each room type has a maximum occupancy limit."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Do extra guest charges include meals?"
+            },
+            {
+                "role": "assistant",
+                "content": "Extra guest charges may or may not include meals, depending on the hotel policy."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Can I modify my booking to add more guests?"
+            },
+            {
+                "role": "assistant",
+                "content": "Yes, you can update your booking to include additional guests."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "What time does breakfast start?"
+            },
+            {
+                "role": "assistant",
+                "content": "Breakfast is served from 7:00 AM to 10:30 AM."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Can I get breakfast earlier than 7:00 AM?"
+            },
+            {
+                "role": "assistant",
+                "content": "Early breakfast is available upon request for guests with early departures."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "What time does lunch service begin?"
+            },
+            {
+                "role": "assistant",
+                "content": "Lunch is available from 12:00 PM to 3:00 PM."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Do you offer buffet lunch?"
+            },
+            {
+                "role": "assistant",
+                "content": "Yes, we have a buffet lunch option with a variety of dishes."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "What time does dinner start?"
+            },
+            {
+                "role": "assistant",
+                "content": "Dinner service begins at 7:00 PM and ends at 10:30 PM."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Can I order dinner after 10:30 PM?"
+            },
+            {
+                "role": "assistant",
+                "content": "Late-night dining options are available through room service."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "What time are evening snacks available?"
+            },
+            {
+                "role": "assistant",
+                "content": "Evening snacks are served from 4:00 PM to 6:30 PM."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Do you have a special menu for evening snacks?"
+            },
+            {
+                "role": "assistant",
+                "content": "Yes, we offer light bites, sandwiches, and beverages during snack hours."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Are restaurant timings the same on weekends?"
+            },
+            {
+                "role": "assistant",
+                "content": "Weekend timings may vary. Please check with the restaurant for exact hours."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Can I reserve a table for dinner?"
+            },
+            {
+                "role": "assistant",
+                "content": "Yes, table reservations are available for dinner service."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Do you offer all-day dining?"
+            },
+            {
+                "role": "assistant",
+                "content": "Yes, select menu items are available for all-day dining."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Is breakfast included in the room price?"
+            },
+            {
+                "role": "assistant",
+                "content": "Yes, complimentary breakfast is included with all room bookings."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Can I order food outside restaurant hours?"
+            },
+            {
+                "role": "assistant",
+                "content": "Yes, room service is available 24/7 for select menu items."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Do you have a midnight snack menu?"
+            },
+            {
+                "role": "assistant",
+                "content": "Yes, we offer a limited midnight snack menu for late-night cravings."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Are there vegetarian options for breakfast, lunch, and dinner?"
+            },
+            {
+                "role": "assistant",
+                "content": "Yes, we have a variety of vegetarian dishes available for all meals."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "What benefits do VIP customers receive?"
+            },
+            {
+                "role": "assistant",
+                "content": "VIP customers enjoy exclusive perks such as priority check-in, complimentary upgrades, and personalized services."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Do VIP guests get free room upgrades?"
+            },
+            {
+                "role": "assistant",
+                "content": "Yes, VIP guests may receive complimentary room upgrades based on availability."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Can VIP customers request special amenities?"
+            },
+            {
+                "role": "assistant",
+                "content": "Absolutely! VIP guests can request personalized amenities such as premium toiletries, customized room setups, and exclusive concierge services."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Is there a dedicated lounge for VIP guests?"
+            },
+            {
+                "role": "assistant",
+                "content": "Yes, we offer a private VIP lounge with refreshments and business facilities."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Do VIP customers get priority reservations?"
+            },
+            {
+                "role": "assistant",
+                "content": "Yes, VIP guests receive priority for restaurant bookings, spa appointments, and event reservations."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Are there special discounts for VIP members?"
+            },
+            {
+                "role": "assistant",
+                "content": "VIP members enjoy exclusive discounts on room rates, dining, and spa services."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Can VIP guests request late check-out?"
+            },
+            {
+                "role": "assistant",
+                "content": "Yes, late check-out is available for VIP guests at no additional cost, subject to availability."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Do VIP customers have access to private transportation?"
+            },
+            {
+                "role": "assistant",
+                "content": "Yes, we provide luxury car services and airport transfers for VIP guests."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Is there a loyalty program for VIP customers?"
+            },
+            {
+                "role": "assistant",
+                "content": "Yes, our loyalty program offers tiered benefits, including free stays and exclusive offers."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Can VIP guests host private events at the hotel?"
+            },
+            {
+                "role": "assistant",
+                "content": "Yes, VIP guests can book private event spaces with customized catering and decor."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Do VIP customers receive personalized greetings upon arrival?"
+            },
+            {
+                "role": "assistant",
+                "content": "Yes, VIP guests are welcomed with personalized greetings and special arrangements."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Are there exclusive dining options for VIP guests?"
+            },
+            {
+                "role": "assistant",
+                "content": "Yes, VIP guests have access to private dining areas and customized menus."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Can VIP customers request a personal concierge?"
+            },
+            {
+                "role": "assistant",
+                "content": "Yes, a dedicated concierge is available to assist VIP guests with all their needs."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Do VIP guests get priority room service?"
+            },
+            {
+                "role": "assistant",
+                "content": "Yes, VIP guests receive expedited room service with premium menu options."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Are there special security measures for VIP customers?"
+            },
+            {
+                "role": "assistant",
+                "content": "Yes, we provide enhanced security and privacy measures for VIP guests."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "What services does your hotel offer?"
+            },
+            {
+                "role": "assistant",
+                "content": "Our hotel provides luxurious accommodations, fine dining, spa services, and concierge assistance."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Can I book a room through this chatbot?"
+            },
+            {
+                "role": "assistant",
+                "content": "Yes! Please provide your check-in and check-out dates, preferred room type, and any special requests."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "What are the check-in and check-out timings?"
+            },
+            {
+                "role": "assistant",
+                "content": "Check-in starts at 3:00 PM, and check-out is at 11:00 AM."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Do you offer airport transfers?"
+            },
+            {
+                "role": "assistant",
+                "content": "Yes, we provide airport pick-up and drop-off services. Would you like to schedule a ride?"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "How can I modify my reservation?"
+            },
+            {
+                "role": "assistant",
+                "content": "You can modify your booking by providing your reservation details."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "What are the dining options in the hotel?"
+            },
+            {
+                "role": "assistant",
+                "content": "We have a multi-cuisine restaurant, a rooftop bar, and 24/7 room service."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Can I request additional amenities for my stay?"
+            },
+            {
+                "role": "assistant",
+                "content": "Certainly! We offer extra towels, pillows, toiletries, and special arrangements for celebrations."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "How do I contact hotel staff for urgent needs?"
+            },
+            {
+                "role": "assistant",
+                "content": "You can connect with the front desk or dial '0' from your room phone."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Do you have pet-friendly rooms?"
+            },
+            {
+                "role": "assistant",
+                "content": "Yes! We offer pet-friendly accommodations with special amenities."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "What attractions are near the hotel?"
+            },
+            {
+                "role": "assistant",
+                "content": "Our hotel is close to popular tourist spots including museums, shopping centers, and parks."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "How do I provide feedback about my stay?"
+            },
+            {
+                "role": "assistant",
+                "content": "You can submit feedback through this chatbot or at the front desk upon checkout."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "What time does the restaurant open and close?"
+            },
+            {
+                "role": "assistant",
+                "content": "Our restaurant is open from 7:00 AM to 10:00 PM daily."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Can I see the food menu?"
+            },
+            {
+                "role": "assistant",
+                "content": "Sure! We offer continental breakfast, Indian cuisine, Italian dishes, and desserts."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Do you have vegetarian options?"
+            },
+            {
+                "role": "assistant",
+                "content": "Yes, we have a variety of vegetarian dishes available."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Can I order food to my room?"
+            },
+            {
+                "role": "assistant",
+                "content": "Absolutely! You can place room service orders through this chatbot."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "What types of rooms do you offer?"
+            },
+            {
+                "role": "assistant",
+                "content": "We have Standard, Deluxe, Suite, and Family rooms available."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "What is the price for a Standard room?"
+            },
+            {
+                "role": "assistant",
+                "content": "The price for a Standard room starts at \u20b91,369 per night."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "What is the price for a Deluxe room?"
+            },
+            {
+                "role": "assistant",
+                "content": "A Deluxe room costs around \u20b91,819 per night."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "What is the price for a Suite?"
+            },
+            {
+                "role": "assistant",
+                "content": "Suites are available starting at \u20b94,033 per night."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Do you offer discounts for long stays?"
+            },
+            {
+                "role": "assistant",
+                "content": "Yes, we provide discounts for extended stays. Contact us for details."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Are there any seasonal offers?"
+            },
+            {
+                "role": "assistant",
+                "content": "We have seasonal promotions and special discounts during festive periods."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Can I book a room for someone else?"
+            },
+            {
+                "role": "assistant",
+                "content": "Yes, you can book a room under their name using your details."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Can I check in early?"
+            },
+            {
+                "role": "assistant",
+                "content": "Early check-in is subject to availability. Please contact the front desk for confirmation."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Is there an extra charge for early check-in?"
+            },
+            {
+                "role": "assistant",
+                "content": "Early check-in may incur additional charges depending on the hotel policy."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "What is the earliest check-in time?"
+            },
+            {
+                "role": "assistant",
+                "content": "Standard check-in time is 3:00 PM, but early check-in may be available from 10:00 AM."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Can I check out late?"
+            },
+            {
+                "role": "assistant",
+                "content": "Late check-out is subject to availability. Please inform the front desk in advance."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Is there a fee for late check-out?"
+            },
+            {
+                "role": "assistant",
+                "content": "Late check-out may be chargeable based on the duration of the extension."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "What is the latest check-out time?"
+            },
+            {
+                "role": "assistant",
+                "content": "Standard check-out time is 11:00 AM, but late check-out may be available until 2:00 PM."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "How many people can stay in a Standard room?"
+            },
+            {
+                "role": "assistant",
+                "content": "A Standard room accommodates up to 2 adults."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "How many guests are allowed in a Deluxe room?"
+            },
+            {
+                "role": "assistant",
+                "content": "A Deluxe room can host up to 3 adults."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "What is the occupancy limit for a Suite?"
+            },
+            {
+                "role": "assistant",
+                "content": "Suites can accommodate up to 4 adults."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Can I add an extra person to my booking?"
+            },
+            {
+                "role": "assistant",
+                "content": "Yes, extra guests can be added based on room capacity."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "What is the charge for an additional guest in a Standard room?"
+            },
+            {
+                "role": "assistant",
+                "content": "An extra guest in a Standard room costs \u20b9500 per night."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "What is the fee for an additional person in a Deluxe room?"
+            },
+            {
+                "role": "assistant",
+                "content": "An extra person in a Deluxe room costs \u20b9800 per night."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "How much does it cost to add a guest in a Suite?"
+            },
+            {
+                "role": "assistant",
+                "content": "An additional guest in a Suite costs \u20b91,200 per night."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Are children counted in the occupancy limit?"
+            },
+            {
+                "role": "assistant",
+                "content": "Children under 5 years stay free, while older children may be considered as extra guests."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Can I request an extra bed for an additional guest?"
+            },
+            {
+                "role": "assistant",
+                "content": "Yes, extra beds are available upon request for an additional charge."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "What time does breakfast start?"
+            },
+            {
+                "role": "assistant",
+                "content": "Breakfast is served from 7:00 AM to 10:30 AM."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "What time does lunch service begin?"
+            },
+            {
+                "role": "assistant",
+                "content": "Lunch is available from 12:00 PM to 3:00 PM."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "What time does dinner start?"
+            },
+            {
+                "role": "assistant",
+                "content": "Dinner service begins at 7:00 PM and ends at 10:30 PM."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "What time are evening snacks available?"
+            },
+            {
+                "role": "assistant",
+                "content": "Evening snacks are served from 4:00 PM to 6:30 PM."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Do you offer buffet or \u00e0 la carte dining?"
+            },
+            {
+                "role": "assistant",
+                "content": "We have both buffet and \u00e0 la carte options available."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Is breakfast included in the room price?"
+            },
+            {
+                "role": "assistant",
+                "content": "Yes, complimentary breakfast is included with all room bookings."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Do VIP guests get free room upgrades?"
+            },
+            {
+                "role": "assistant",
+                "content": "Yes, VIP guests may receive complimentary room upgrades based on availability."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Can VIP customers request special amenities?"
+            },
+            {
+                "role": "assistant",
+                "content": "Absolutely! VIP guests can request personalized amenities such as premium toiletries, customized room setups, and exclusive concierge services."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Is there a dedicated lounge for VIP guests?"
+            },
+            {
+                "role": "assistant",
+                "content": "Yes, we offer a private VIP lounge with refreshments and business facilities."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Do VIP customers get priority reservations?"
+            },
+            {
+                "role": "assistant",
+                "content": "Yes, VIP guests receive priority for restaurant bookings, spa appointments, and event reservations."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Can VIP guests request a personal concierge?"
+            },
+            {
+                "role": "assistant",
+                "content": "Yes, a dedicated concierge is available to assist VIP guests with all their needs."
+            }
+        ]
+    }
+]
